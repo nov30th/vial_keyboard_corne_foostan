@@ -34,7 +34,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/keyboard-converter
+git clone https://github.com/nov30th/vial_keyboard_corne_foostan
 cd keyboard-converter
 
 # 为所有支持的平台构建
